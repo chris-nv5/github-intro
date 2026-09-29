@@ -1,9 +1,5 @@
-# github-intro
-A repository to learn about GitHub
-
-# GitHub Learning Group
-
-A beginner-friendly repository for learning Git and GitHub together as a coworker group.
+# GitHub Intro
+A repository for learning Git and GitHub.
 
 ## Goals
 - Learn Git fundamentals
